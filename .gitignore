@@ -1,5 +1,5 @@
-sample/node_modules/
-sample/.expo/
+# sample/node_modules/
+# sample/.expo/
 sample/dist/
 sample/npm-debug.*
 sample/*.jks
