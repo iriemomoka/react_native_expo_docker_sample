@@ -1,0 +1,17 @@
+sample/node_modules/
+sample/.expo/
+sample/dist/
+sample/npm-debug.*
+sample/*.jks
+sample/*.p8
+sample/*.p12
+sample/*.key
+sample/*.mobileprovision
+sample/*.orig.*
+sample/web-build/
+
+# macOS
+sample/.DS_Store
+
+# Temporary files created by Metro to check the health of the file watcher
+sample/.metro-health-check*
