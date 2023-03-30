@@ -33,7 +33,7 @@ export default function App() {
       <Text style={{ fontSize: 22, color: colors[colorIndex3] }}>l</Text>
       <Text style={{ fontSize: 22, color: colors[colorIndex4] }}>l</Text>
       <Text style={{ fontSize: 22, color: colors[colorIndex5] }}>o</Text>
-      <Text style={{ fontSize: 25, color: colors[colorIndex6] }}> W</Text>
+      <Text style={{ fontSize: 25, color: colors[colorIndex6] }}>  W</Text>
       <Text style={{ fontSize: 22, color: colors[colorIndex7] }}>o</Text>
       <Text style={{ fontSize: 22, color: colors[colorIndex8] }}>r</Text>
       <Text style={{ fontSize: 22, color: colors[colorIndex9] }}>l</Text>
