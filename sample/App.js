@@ -27,7 +27,7 @@ export default function App() {
 
   return (
     <View style={styles.container}>
-      <Text style={{ fontSize: 25 }}>💖🐈 </Text>
+      <Text style={{ fontSize: 25 }}>💖🐈🎉 </Text>
       <Text style={{ fontSize: 25, color: colors[colorIndex1] }}>H</Text>
       <Text style={{ fontSize: 22, color: colors[colorIndex2] }}>e</Text>
       <Text style={{ fontSize: 22, color: colors[colorIndex3] }}>l</Text>
@@ -38,7 +38,7 @@ export default function App() {
       <Text style={{ fontSize: 22, color: colors[colorIndex8] }}>r</Text>
       <Text style={{ fontSize: 22, color: colors[colorIndex9] }}>l</Text>
       <Text style={{ fontSize: 22, color: colors[colorIndex0] }}>d</Text>
-      <Text style={{ fontSize: 25, transform: [{ scaleX: -1 }] }}>💖🐈 </Text>
+      <Text style={{ fontSize: 25, transform: [{ scaleX: -1 }] }}>💖🐈🎉 </Text>
     </View>
   );
 }
